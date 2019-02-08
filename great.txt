@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is great harmless going file. Let's do it man.
+=======
+This is great going file. Let's do it man.Let's party
+>>>>>>> 71097c7d6448c2de8047856e62dabaaa84247dea
